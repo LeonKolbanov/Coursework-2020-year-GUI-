@@ -1,0 +1,33 @@
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\bin\Debug\GUI Библиотека.exe.config
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\bin\Debug\GUI Библиотека.exe
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\bin\Debug\GUI Библиотека.pdb
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\bin\Debug\GUI Библиотека.xml
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI Библиотека.vbprojAssemblyReference.cache
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form1.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form2.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Resources.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI Библиотека.vbproj.GenerateResource.cache
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI Библиотека.vbproj.CoreCompileInputs.cache
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI Библиотека.exe
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI Библиотека.xml
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI Библиотека.pdb
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form3.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form4.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form5.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form6.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form7.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form8.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form9.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form10.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form11.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form12.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form13.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form14.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form15.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form16.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form17.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form18.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form19.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Form20.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Dialog1.resources
+C:\Users\kolba\source\repos\GUI Библиотека\GUI Библиотека\obj\Debug\GUI_Библиотека.Dialog2.resources
